@@ -1,0 +1,25 @@
+body {
+  font-family: "mostra-nuova", sans-serif;
+  background: linear-gradient(90deg, #fff1eb 0%, #ace0f9 100%);
+}
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+}
+
+h2 {
+  font-size: 28px;
+  text-align: center;
+}
+
+.img {
+  display: flex;
+  margin: 60px;
+  width: 50%;
+}
+
+button {
+  background-color: blue;
+  color: white;
+}
