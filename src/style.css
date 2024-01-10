@@ -16,10 +16,14 @@ h2 {
   text-align: center;
 }
 
+.video {
+  max-width: 80%;
+}
+
 .img-responsive {
   display: flex;
   margin: 60px;
-  width: 50%;
+  max-width: 50%;
 }
 
 button {
