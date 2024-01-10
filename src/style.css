@@ -1,7 +1,10 @@
 body {
   font-family: "mostra-nuova", sans-serif;
+  font-weight: 700;
+  line-height: 1.5;
   background: linear-gradient(90deg, #fff1eb 0%, #ace0f9 100%);
 }
+
 h1 {
   font-size: 36px;
   font-weight: 700;
@@ -13,7 +16,7 @@ h2 {
   text-align: center;
 }
 
-.img {
+.img-responsive {
   display: flex;
   margin: 60px;
   width: 50%;
