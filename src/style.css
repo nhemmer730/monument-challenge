@@ -1,32 +1,46 @@
 body {
-  font-family: "mostra-nuova", sans-serif;
+  font-family: "brioso-pro", serif;
   font-weight: 700;
+  font-style: normal;
   line-height: 1.5;
   background: linear-gradient(90deg, #fff1eb 0%, #ace0f9 100%);
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 86px;
   font-weight: 700;
   text-align: center;
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 48px;
   text-align: center;
 }
 
-.video {
-  max-width: 80%;
+footer {
+  text-align: center;
+  font-size: 12px;
+  color: rgb(17, 85, 221);
+  text-decoration: none;
+}
+.about-section {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+p {
+  font-size: 22px;
+  font-weight: 400;
+  margin: 15px;
 }
 
-.img-responsive {
-  display: flex;
-  margin: 60px;
-  max-width: 50%;
+.img {
+  display: grid;
+  margin: 15px;
+  border-radius: 10px;
 }
 
 button {
-  background-color: blue;
+  background-color: rgb(224, 178, 28);
   color: white;
+  text-decoration: none;
 }
