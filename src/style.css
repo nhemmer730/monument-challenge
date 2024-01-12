@@ -23,10 +23,12 @@ footer {
   color: rgb(17, 85, 221);
   text-decoration: none;
 }
+
 .about-section {
   display: grid;
   grid-template-columns: 1fr 2fr;
 }
+
 p {
   font-size: 22px;
   font-weight: 400;
