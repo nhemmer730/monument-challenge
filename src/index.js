@@ -25,4 +25,4 @@ let days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 let day = days[now.getDay()];
 let month = months[now.getMonth()];
 
-h5.innerHTML = `${day} ${month} ${date}, ${year} ${hours}:${minutes}`;
+h5.innerHTML = `${day} ${month} ${date}, ${year}   ${hours}:${minutes}`;
